@@ -1,7 +1,7 @@
 # White-Box-Supervised-ML Classification & Regression  
 
-> **Important:** The classification dataset (`train.csv`) is large and is uploaded as `train.zip`.  
-> **Please extract** `train.csv` from `train.zip` into `classification_credit_scoring/data/` before running the classification notebook.
+> **Important:** The classification dataset (`train.csv`) is large and is uploaded as `train.csv.gz`.  
+> **Please extract** `train.csv` from `train.csv.gz` into `White Box - Supervised ML Project Classification- DSBPT1.ipynb` before running the classification notebook.
 
 ---
 
